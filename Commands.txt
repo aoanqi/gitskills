@@ -86,4 +86,6 @@ sudo chown -R git:git sample.git修改仓库的所属用户为git；
 将git用户的信息git:x:1001:1001:,,,:/home/git:/bin/bash改成git:x:1001:1001:,,,:/home/git:/bin/git-shell，为了禁用shell登录。
 git clone git@server:/director/sample.git 克隆Git服务器上的仓库
 
+国外网友制作的Git Cheat Sheet:http://www.git-tower.com/blog/assets/2013-05-22-git-cheat-sheet/cheat-sheet-large01.png
+
 以上内容均来自http://www.liaoxuefeng.com/的学习总结，感谢原作者。
